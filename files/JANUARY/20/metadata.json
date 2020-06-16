@@ -1,0 +1,15 @@
+{
+	"aircraftsubtype":"Boeing 717-200-1",
+	"aircrafttype":"Boeing 717-200",
+	"airline":"Delta Air Lines",
+	"arrivalairport":"BAN",
+	"arrivaltime":1579522500000,
+	"departureairport":"HYD",
+	"departuretime":1579515300000,
+	"endeventtimestamp":1579523400000,
+	"endeventtype":"FC",
+	"flightnumber":"DAL1",
+	"starteventtimestamp":1579514400000,
+	"starteventtype":"FO",
+	"tailnumber":"N020"
+}
